@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Kalinixta,',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '5f502cd60d248b94575fd2fdf76d84db', // Write here your API Key
